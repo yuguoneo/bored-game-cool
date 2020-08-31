@@ -44,6 +44,6 @@ while True:
     guess(numis)
     
     
-print("thanks for @indexoffire's help.")
+print("thanks for @indexofire's help.")
 
       
