@@ -36,12 +36,12 @@ def guess(numberis, playercoin):
       guesssb = 0
     elif plgue < numberis:
       print("the number is bigger.--你猜的太小了。")
-      playercoin = playercoin - 15
+      playercoin = playercoin - 20
       print("you have %d now." % playercoin)
       print("你有 %d 元了。" % playercoin)
     elif plgue > numberis:
       print("the number is smaller.--你猜的太大了。")
-      playercoin = playercoin - 15
+      playercoin = playercoin - 20
       print("you have %d now." % playercoin)
       print("你有 %d 元了。" % playercoin)
       
