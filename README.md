@@ -1,1 +1,2 @@
-# game1
+# bored-game-cool
+#this game is bored!!!
