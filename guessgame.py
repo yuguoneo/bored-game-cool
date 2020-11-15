@@ -49,7 +49,7 @@ def guess(numberis, playercoin):
   return playercoin
       
 while True:
-  if playercoin == 1000:
+  if playercoin >= 1000:
     print("you are verry rich!--哇！猜数字首富！")
     break
   elif playercoin <= 0:
