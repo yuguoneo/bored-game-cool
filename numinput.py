@@ -7,7 +7,7 @@ while True:
         print("you win!")
     a = random.randint(1, 9)
     print(a)
-    b = input("the number is ")
+    b = int(input("the number is "))
     if a == b:
         print("yes! it is!")
         point = point + 1
